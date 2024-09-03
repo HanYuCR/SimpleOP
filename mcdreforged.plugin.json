@@ -1,18 +1,19 @@
 {
-	"id": "simple_op",
-	"version": "1.2.0",
-	"name": "Simple OP",
+	"id": "restart",
+	"version": "1.0.0",
+	"name": "reatart server",
 	"description": {
-		"en_us": "!!op to get op, !!restart to restart the server",
-		"zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+		"en_us": "!!restart to restart the server",
+		"zh_cn": "!!restart 以重启服务器"
 	},
 	"author": [
-		"Fallen_Breath"
+		"Fallen_Breath"，
+		"HanYu"
 	],
 	"dependencies": {
 		"mcdreforged": ">=2.1.0-beta"
 	},
-	"link": "https://github.com/MCDReforged/SimpleOP",
+	"link": "https://github.com/HanYuCR/RestartServer",
 	"resources": [
 		"lang"
 	]
