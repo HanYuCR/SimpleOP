@@ -1,5 +1,3 @@
-`!!op` give you op
-
 `!!restart` restart the server
 
 Mostly used in creative servers
